@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Prototipo de referencia sin build propio (ver specs/01-pantallas-arcade-vault.md).
+    "references/**",
   ]),
 ]);
 

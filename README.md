@@ -9,6 +9,9 @@ Basado en /spec y /spec-impl
 Siguiendo las buenas practicas recomendadas aquí:
 https://github.com/Klerith/fernando-skills
 
+## skills
+Usa siempre /frontend-design para diseñar la interfaz de usuario. 
+
 ## Skills usadas
 
 ```bash
